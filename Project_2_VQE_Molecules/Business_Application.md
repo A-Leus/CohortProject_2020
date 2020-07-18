@@ -13,8 +13,13 @@ The more chemical bonds, the harder is the task of modelling the corresponding P
 ## Step 3: Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved
 
 Examples: 
-- Federal Express
-- Canada Post
+- Fertilizer companies:
+ Yara International
+Revenue: $2.8 billion [10-K, 2020]
+R&D: $
+
+- Big Pharma (potentially):
+
 
 ## Step 4: Prepare a 90 second video explaining the value proposition of your innovation to this potential customer in non-technical language
 
