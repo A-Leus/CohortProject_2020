@@ -12,7 +12,7 @@ The more chemical bonds, the harder is the task of modelling the corresponding P
 
 ## Step 3: Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved
  
-Fertilizer companies:
+                                                                  Fertilizer companies:
 
  Yara International
 
@@ -39,6 +39,19 @@ https://www.yara.com/siteassets/investors/057-reports-and-presentations/quarterl
  Revenue: $2.8 billion (FY2019)
  
  https://www.uralkali.com/upload/iblock/12a/Uralkali_IFRS%20FS_2019_eng.pdf
+ 
+ EuroChem
+ 
+ Revenue: $6.2 billion (FY2019)
+ 
+https://www.eurochemgroup.com/wp-content/uploads/2019/08/2020_02_eurochem-fy19-ifrs-results_press-release_final-formatted_for-website.pdf
+
+CF Industries Holdings
+ 
+ Revenue: $4.6 billion (FY2019)
+ 
+http://d18rn0p25nwr6d.cloudfront.net/CIK-0001324404/d7852861-bd40-48fa-8e85-f4184c3f6bd6.pdf
+ 
 
 
 
