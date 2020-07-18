@@ -8,17 +8,24 @@ Modelling Potential Energy Surfaces for small molecules by efficiently applying 
 
 ## Step 2: Explain or provide examples of the types of real-world problems this solution can solve
 
-The more chemical bonds, the harder is the task of modelling the corresponding Potential Energy Surface. And without knowing the Potential Energy Surface it's not feasible to computationally develop the most efficient catalysts that would facilitate the needed reaction. As such, being able to reliably model PES could yield huge benefits for companies whose core business relies on chemical synthesis.
+The more chemical bonds, the harder is the task of modelling the corresponding Potential Energy Surface. And without knowing the Potential Energy Surface it's not feasible to computationally develop the most efficient catalysts that would facilitate the needed chemical reaction. As such, being able to reliably model PES could yield huge benefits for companies whose core business relies on chemical synthesis.
 
 ## Step 3: Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved
+ 
+Fertilizer companies:
 
-Examples: 
-- Fertilizer companies:
  Yara International
-Revenue: $2.8 billion [10-K, 2020]
-R&D: $
+Revenue: $2.9 billion (2Q 2020)
+https://www.yara.com/siteassets/investors/057-reports-and-presentations/quarterly-reports/2020/2q-2020/yara-2q-2020-report.pdf/
 
-- Big Pharma (potentially):
+ Nutrien
+ Revenue: $4.2 billion (1Q 2020)
+ https://www.nutrien.com/sites/default/files/2020-05/Nutrien%20Q1%202020%20Earnings%20Release.pdf
+ 
+ Mosaic
+ Revenue: $1.8 billion (1Q 2020)
+ http://investors.mosaicco.com/Cache/IRCache/1f603570-2d25-f4a5-04c2-2674620095e4.PDF?O=PDF&T=&Y=&D=&FID=1f603570-2d25-f4a5-04c2-2674620095e4&iid=4097833
+
 
 
 ## Step 4: Prepare a 90 second video explaining the value proposition of your innovation to this potential customer in non-technical language
