@@ -14,6 +14,7 @@ The more chemical bonds, the harder is the task of modelling the corresponding P
  
 Fertilizer companies:
 
+
  Yara International
 
 Revenue: $2.9 billion (2Q 2020)
@@ -21,11 +22,13 @@ Revenue: $2.9 billion (2Q 2020)
 https://www.yara.com/siteassets/investors/057-reports-and-presentations/quarterly-reports/2020/2q-2020/yara-2q-2020-report.pdf/
 
 
+
  Nutrien
  
  Revenue: $4.2 billion (1Q 2020)
  
  https://www.nutrien.com/sites/default/files/2020-05/Nutrien%20Q1%202020%20Earnings%20Release.pdf
+ 
  
  
  Mosaic
