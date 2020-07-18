@@ -12,7 +12,7 @@ The more chemical bonds, the harder is the task of modelling the corresponding P
 
 ## Step 3: Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved
  
-                                                                  Fertilizer companies:
+                                                              Fertilizer companies
 
  Yara International
 
