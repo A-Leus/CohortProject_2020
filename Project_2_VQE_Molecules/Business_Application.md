@@ -8,7 +8,7 @@ Modelling Potential Energy Surfaces for small molecules by efficiently applying 
 
 ## Step 2: Explain or provide examples of the types of real-world problems this solution can solve
 
-The more chemical bonds, the harder is the task of modelling the corresponding Potential Energy Surface. And without knowing the Potential Energy Surface it's not feasible to computationally develop the most efficient catalysts that would facilitate the needed chemical reaction. As such, being able to reliably model PES could yield huge benefits for companies whose core business relies on chemical synthesis.
+The more chemical bonds, the harder is the task of modelling the corresponding Potential Energy Surface. And without knowing the Potential Energy Surface it's not feasible to computationally develop the most efficient catalysts that would facilitate the needed chemical reaction. As such, being able to reliably model PES could yield huge benefits for companies whose core business operations rely on chemical synthesis.
 
 ## Step 3: Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved
  
